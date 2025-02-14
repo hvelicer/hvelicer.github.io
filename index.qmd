@@ -7,11 +7,13 @@ about:
   image-width: 17em
   links: 
     - text: LinkedIn
-      href: //www.linkedin.com/in/hannavelicer
+      href: www.linkedin.com/in/hannavelicer
+    - text: GitHub
+      href: https://github.com/hvelicer
     - text: Email
-      href: //hvelicer@colostate.edu
-    - text: Research Information
+      href: "mailto: hvelicer@colostate.edu"
     - text: Warner College of Natural Resources
+      href: https://warnercnr.colostate.edu/
 ---
 
-Hi! I'm Hanna and I am a junior at Colorado State University studying Ecosystem Science and Sustainability with a Zoology minor. At CSU, I am a member of the Outdoor Club! I am passionate about wildlife conservation and rehabilitation and hope to work in that field after college.
+Hello! I'm Hanna and I am a junior at Colorado State University studying Ecosystem Science and Sustainability with a Zoology minor. At CSU, I am a member of the Outdoor Club! I am passionate about wildlife conservation and rehabilitation and hope to work in that field after college.

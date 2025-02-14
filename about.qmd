@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This website is created by Hanna Velicer through the ESS 330 - Quantitative Reasoning course at CSU.

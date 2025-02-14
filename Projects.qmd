@@ -1,3 +1,14 @@
 ---
 title: "Projects"
+about: 
+  template: solana
+  links: 
+    - text: Wolverine Reintroduction Using GIS
+      href: https://github.com/hvelicer/hvelicer.github.io/blob/main/Wolverine%20Reintroduction%20Using%20GIS.pdf
+    - text: Deforestation Popular Science Article
+      href: https://github.com/hvelicer/hvelicer.github.io/blob/main/Deforestation%20Popular%20Science%20Article.pdf
 ---
+
+Wolverine Reintroduction: This project aimed to find potential suitable area for wolverine reintroduction in Colorado, specifically in the Steamboat Springs/Yampa area. This work was done on ArcGIS Pro and utilized many public datasets on criteria like elevation, snowpack, and public lands.
+
+Deforestation Article: This article was written with the intent of having a general audience. It is based on an actual study done by Callum Smith at the University of Leeds in the UK to find a correlation between rainfall and deforestation. This article explains their methods and results while also providing background on deforestation itself.

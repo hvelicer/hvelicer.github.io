@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "hvelicer.github.io"
+  title: "Hanna Velicer's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - Resume.qmd
       - Projects.qmd
+      - about.qmd
 
 format:
   html:

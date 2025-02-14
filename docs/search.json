@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This website is created by Hanna Velicer through the ESS 330 - Quantitative Reasoning course at CSU."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hanna Velicer",
     "section": "",
-    "text": "Hi! I’m Hanna and I am a junior at Colorado State University studying Ecosystem Science and Sustainability with a Zoology minor. At CSU, I am a member of the Outdoor Club! I am passionate about wildlife conservation and rehabilitation and hope to work in that field after college."
+    "text": "Hello! I’m Hanna and I am a junior at Colorado State University studying Ecosystem Science and Sustainability with a Zoology minor. At CSU, I am a member of the Outdoor Club! I am passionate about wildlife conservation and rehabilitation and hope to work in that field after college."
   },
   {
     "objectID": "Resume.html",
@@ -40,5 +40,12 @@
     "title": "Resume",
     "section": "Additional Experience",
     "text": "Additional Experience\n\nBehavior and Biology of African Mammals - Kenya, Africa - May 2024\n\nFaculty-led study abroad program focusing on observation and data collection on animal behavior methods\nAcquired and developed practical field skills including behavioral observation and camera trapping\n\n\n\nVolunteer - Rescued Friends Animal Sanctuary, Fort Collins, CO - January-May 2024\nNonprofit organization housing and caring for abused and neglected farm animals\n\nManaged everyday food preparation and pen cleanliness for goats, chickens, pigs, cows, and donkeys\nWorked alongside head caretaker to monitor daily health for 150+ animals\n\n\n\nAnimal Specialist In Training - Rolla, MO - 2019-2021\nExclusive leadership position awarded by director invitation at Cub Creek Science and Animal Camp\n\nReceived extensive training to work independently with and care for 300+ exotic and domestic animal species\nConducted daily husbandry tasks including food preparation and cleaning enclosures\nLead weekly educational talks for campers on animal habitat and care\n\n\n\nAnimal Camp Jamaica - July 2021\n\nMarine biology summer program focusing on ocean habitats, coral reef science, and preservation\nParticipated in community service with local marine conservation programs\nAcquired comprehensive knowledge of marine life and study the natural habitats"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Wolverine Reintroduction: This project aimed to find potential suitable area for wolverine reintroduction in Colorado, specifically in the Steamboat Springs/Yampa area. This work was done on ArcGIS Pro and utilized many public datasets on criteria like elevation, snowpack, and public lands.\nDeforestation Article: This article was written with the intent of having a general audience. It is based on an actual study done by Callum Smith at the University of Leeds in the UK to find a correlation between rainfall and deforestation. This article explains their methods and results while also providing background on deforestation itself."
   }
 ]
