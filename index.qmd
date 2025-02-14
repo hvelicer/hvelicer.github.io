@@ -1,11 +1,17 @@
 ---
 title: "Hanna Velicer"
+image: websitepic.jpeg
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: //www.linkedin.com/in/hannavelicer
+    - text: Email
+      href: //hvelicer@colostate.edu
+    - text: Research Information
+    - text: Warner College of Natural Resources
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! I'm Hanna and I am a junior at Colorado State University studying Ecosystem Science and Sustainability with a Zoology minor. At CSU, I am a member of the Outdoor Club! I am passionate about wildlife conservation and rehabilitation and hope to work in that field after college.
